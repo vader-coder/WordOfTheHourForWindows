@@ -1,0 +1,6 @@
+{'definitions': {'english': ['wanting force, vigor, or efficiency in action or expression', 'deficient in physical strength', 'weak; infirm; debilitated'
+        ]
+    }, 
+    'translations': {'english': 'feeble', 'catalan': 'feble', 'cornish': 'gwann', 'esperanto': 'malforta', 'french': 'faible', 'galician': 'feble', 'hindi': 'दुर्बल', 'italian': 'debole', 'kazakh': 'әлсіз', 'manx': 'Annoon', 'portuguese': 'frágil', 'spanish': 'débil', 'swedish': 'klen'
+    }, 'word': 'feeble', 'id': 1030
+}
